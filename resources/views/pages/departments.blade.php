@@ -19,7 +19,7 @@
 @section('title')
     Departments
 @endsection
-
+ 
 @section('content')
     <div>
         <header>
